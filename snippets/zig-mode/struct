@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: const Name = struct { .. };
+# key: struct
+# --
+const ${1:Name} = struct {
+	   $0
+};

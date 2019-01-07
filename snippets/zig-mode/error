@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: const NewError = error { ... }
+# key: error
+# --
+const ${1:New}Error = error {
+	  $0
+};

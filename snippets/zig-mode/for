@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: for (items) |value| { ... }
+# key: for
+# --
+for (${1:items}) |${2:value}| {
+	$0
+}

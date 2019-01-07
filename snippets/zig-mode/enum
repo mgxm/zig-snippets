@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: const Type = enum { .. };
+# key: enum
+# --
+const ${1:Type} = enum {
+	   $0
+};

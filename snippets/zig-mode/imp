@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: const name = @import("lib");
+# key: imp
+# --
+const ${1:name} = @import("${2:lib}");

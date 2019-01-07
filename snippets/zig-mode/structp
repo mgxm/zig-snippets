@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pub const Name = struct { .. };
+# key: structp
+# --
+pub const ${1:Name} = struct {
+	   $0
+};

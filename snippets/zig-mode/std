@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: const std = @import("std");
+# key: std
+# --
+const std = @import("std");
